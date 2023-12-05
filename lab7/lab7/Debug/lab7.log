@@ -1,0 +1,8 @@
+﻿  lab7.cpp
+C:\Users\vikto\source\repos\lab7\lab7\lab7.cpp(70,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vikto\source\repos\lab7\lab7\lab7.cpp(71,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vikto\source\repos\lab7\lab7\lab7.cpp(82,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vikto\source\repos\lab7\lab7\lab7.cpp(156,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vikto\source\repos\lab7\lab7\lab7.cpp(174,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vikto\source\repos\lab7\lab7\lab7.cpp(279,21): warning C4018: <: несоответствие типов со знаком и без знака
+  lab7.vcxproj -> C:\Users\vikto\source\repos\lab7\Debug\lab7.exe
