@@ -1,0 +1,5 @@
+﻿  lab8.cpp
+C:\Users\vikto\source\repos\lab8\lab8\lab8.cpp(162,19): warning C4101: b: неиспользованная локальная переменная
+C:\Users\vikto\source\repos\lab8\lab8\lab8.cpp(162,22): warning C4101: f: неиспользованная локальная переменная
+C:\Users\vikto\source\repos\lab8\lab8\lab8.cpp(162,25): warning C4101: l: неиспользованная локальная переменная
+  lab8.vcxproj -> C:\Users\vikto\source\repos\lab8\Debug\lab8.exe
